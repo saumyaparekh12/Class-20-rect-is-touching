@@ -1,1 +1,2 @@
-# Class-20-rect-is-touching
+# p5.play-boilerplate
+Boiler plate for p5.play
